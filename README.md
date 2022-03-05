@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @McDeezButtholeSmeller
+- 👋 Hi, I’m @ZevenBaka
 - ✍ I’m interested in Web Development, Python, and Linux
-- 🧠 I’m currently learning Javascript, HTML, CSS, Python, and Linux
+- 🧠 I’m currently learning Javascript, HTML, CSS, Java, and Python
 - 📭 How to reach me iLoveYOuMamma4Ever@gmail.com
 
-You can download more some of my stuff like BLACKEYE.sh phishing link tool, (USE FOR EDUCATIONAL USE) open source websites that I had made, and much more.
+I will probably add websites to GitHub for anyone to use like, "https://zevenbaka.github.io/" which is an alternate link to my website "http://openshrek.com/".
