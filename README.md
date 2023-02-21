@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ZevenBaka
+- 👋 Hi, I’m @BonoboLove
 - ✍ I’m interested in Web Development, and Software Development
 - 🧠 I’m currently learning Javascript, HTML, CSS, Java, and Python
 - 📭 How to reach me iLoveYOuMamma4Ever@gmail.com
